@@ -1,0 +1,4 @@
+.config/hypr/.vscode
+
+*.log
+.DS_Store
